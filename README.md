@@ -5,8 +5,8 @@ Backend Developer
 -----------------
 
 * 🌍  I'm based in Jakarta, Indonesia
-* 🖥️  See my portfolio at [See my portfolio at](http://khairul-abdi.netlify.app/)
-* ✉️  You can contact me at [kabdi384@gmail.com](mailto:kabdi384@gmail.com)
+* 🖥️  See my portfolio at [My Personal Website](http://khairul-abdi.netlify.app/)
+* ✉️   You can contact me at [kabdi384@gmail.com](mailto:kabdi384@gmail.com)
 * 🚀  I'm currently working on [koinworks](http://koinworks.com/)
 * 🧠  I'm learning Golang
 
