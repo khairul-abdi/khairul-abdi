@@ -8,7 +8,7 @@ Backend Developer
 * 🖥️  See my portfolio at [My Personal Website](http://khairul-abdi.netlify.app/)
 * ✉️   You can contact me at [kabdi384@gmail.com](mailto:kabdi384@gmail.com)
 * 🚀  I'm currently working on [bank Hijra](https://hijra.id/)
-* 🧠  I'm learning Golang
+* 🧠  I'm learning Java, Spring Boot, Hibernate
 
 ### Skills
 
