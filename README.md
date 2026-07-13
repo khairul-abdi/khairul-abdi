@@ -1,43 +1,105 @@
-Hi 👋 My name is Khairul Abdi Dongoran
-======================================
+<div align="center">
 
-Backend Developer
------------------
+# Hi, I'm Khairul Abdi Dongoran
 
-* 🌍  I'm based in Jakarta, Indonesia
-* 🖥️  See my portfolio at [My Personal Website](http://khairul-abdi.netlify.app/)
-* ✉️   You can contact me at [kabdi384@gmail.com](mailto:kabdi384@gmail.com)
-* 🚀  I'm currently working on [bank Hijra](https://hijra.id/)
-* 🧠  I'm learning Java, Spring Boot, Hibernate
+### Backend Developer
 
-### Skills
+I build backend systems, APIs, and service integrations with a focus on clean architecture, reliability, and practical delivery.
 
-<p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<p>
+  <a href="mailto:kabdi384@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kabdi384%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="http://khairul-abdi-dongoran.com/">
+    <img src="https://img.shields.io/badge/Portfolio-khairul--abdi--dongoran.com-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://paycombat.com/">
+    <img src="https://img.shields.io/badge/Currently%20at-Paycombat-111827?style=for-the-badge" alt="Currently at Paycombat" />
+  </a>
 </p>
 
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.facebook.com/kabdi384" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/khairul-abdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/khairul_abdi_dongoran/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/khairul-abdi-dongoran/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## About Me
 
-### Badges
+- Based in Jakarta, Indonesia
+- Backend-focused developer working with APIs, databases, queues, and distributed workflows
+- Currently working on payment and merchant dashboard systems at [Paycombat](https://paycombat.com/)
+- Interested in Golang, microservices, and event-driven architecture
 
-<b>My GitHub Stats</b>
+## Tech Stack
 
-<a href="http://www.github.com/khairul-abdi"><img src="https://github-readme-stats.vercel.app/api?username=khairul-abdi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="khairul-abdi's GitHub stats" /></a>
+<div align="center">
 
-<a href="http://www.github.com/khairul-abdi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khairul-abdi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Languages & Frontend
 
-<a href="http://www.github.com/khairul-abdi"><img src="https://activity-graph.herokuapp.com/graph?username=khairul-abdi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=go,js,ts,python,php,html,css,react,vue,nextjs,tailwind&perline=8" alt="Go, JavaScript, TypeScript, Python, PHP, HTML, CSS, React, Vue, Next.js, and Tailwind CSS" />
+</p>
 
-<a href="https://github.com/khairul-abdi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairul-abdi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel&perline=8" alt="Node.js, NestJS, Express, and Laravel" />
+  <br />
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logoColor=111827" alt="Filament" />
+  <img src="https://img.shields.io/badge/Temporal-141414?style=for-the-badge&logoColor=white" alt="Temporal" />
+</p>
+
+### Databases, Messaging & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,rabbitmq,docker,githubactions&perline=8" alt="PostgreSQL, MySQL, Redis, Kafka, RabbitMQ, Docker, and GitHub Actions" />
+  <br />
+  <img src="https://img.shields.io/badge/CI%2FCD%20Pipeline-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Pipeline" />
+</p>
+
+</div>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/khairul-abdi" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/khairul-abdi-dongoran/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/khairul_abdi_dongoran/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/kabdi384" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/khairul-abdi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khairul-abdi&theme=github_dark" alt="Khairul Abdi Dongoran's GitHub profile summary" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/khairul-abdi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khairul-abdi&theme=github_dark" alt="Khairul Abdi Dongoran's GitHub stats" />
+  </a>
+  <a href="https://github.com/khairul-abdi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khairul-abdi&theme=github_dark" alt="Khairul Abdi Dongoran's top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/khairul-abdi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairul-abdi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Khairul Abdi Dongoran's GitHub streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/khairul-abdi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khairul-abdi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="Khairul Abdi Dongoran's GitHub activity graph" />
+  </a>
+</p>
